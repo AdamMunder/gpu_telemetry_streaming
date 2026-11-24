@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/30052133-f713-4f96-bb87-6ea5f072633a
+
 # GPU Telemetry Streaming Pipeline
 
 A small end-to-end streaming data pipeline: simulated GPU telemetry flows through **Kafka** into a
