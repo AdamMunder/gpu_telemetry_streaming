@@ -13,8 +13,7 @@ I built it to learn Kafka and streaming hands-on and real time BI. Everything ru
 > **All data is simulated.** GPU model names are used for realism only; prices and firmware
 > versions are illustrative, not real figures.
 
-**Demo video:** _(drag the .mp4 here when editing on GitHub)_
-
+**Demo video:** simulated GPU telemetry flowing from Kafka through bronze, silver and gold into the live dashboard, which refreshes as new data arrives (sped up 8x)
 ---
 
 ## Architecture
