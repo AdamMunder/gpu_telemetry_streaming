@@ -1,0 +1,6 @@
+# Packages for the parts that run on your machine (producer, dashboard, launcher).
+# Spark itself runs inside the Docker container.
+confluent-kafka
+streamlit
+deltalake
+pandas

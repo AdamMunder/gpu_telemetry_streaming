@@ -1,0 +1,5 @@
+gpu_id,node_id,model_name,rated_power_w,price_usd,firmware
+GPU-01,node-1,A100-SXM,400,15000,fw-1.2.0
+GPU-02,node-1,A100-SXM,400,15000,fw-1.2.0
+GPU-03,node-2,H100-SXM,700,30000,fw-1.3.1
+GPU-04,node-2,H100-SXM,700,30000,fw-1.3.1
